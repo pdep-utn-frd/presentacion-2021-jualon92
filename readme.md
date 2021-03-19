@@ -1,5 +1,5 @@
-nombre completo: Juan Ignacio Londra
+- mi nombre es Juan Ignacio Londra
 
-legajo: 11505
+- mi legajo es : 11505
 
-gustos: me gusta escuchar musica 
+- me gusta escuchar musica y jugar a la pc
